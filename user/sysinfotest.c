@@ -2,6 +2,7 @@
 #include "kernel/riscv.h"
 #include "kernel/sysinfo.h"
 #include "user/user.h"
+//#include "kernel/sysinfo.h"
 
 
 void
